@@ -67,7 +67,6 @@
         </el-table-column>
       </el-table>
     </div>
-
   </div>
 </template>
 
